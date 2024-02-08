@@ -1,1 +1,1 @@
-Node.js, Express.js, MongoDB, StripeAPI, SendGrid, 
+Node.js, Express.js, MongoDB, StripeAPI, SendGrid, Multer.
