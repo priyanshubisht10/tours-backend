@@ -51,7 +51,7 @@ This is the backend for a tour management platform that allows users to sign up,
 3. Set up environment variables:
 Create a config.env file in the root directory and define the following variables
     ```env
-    DNODE_ENV=development
+    NODE_ENV=development
     PORT=8000
     DATABASE=
     DATABASE_PASSWORD=
